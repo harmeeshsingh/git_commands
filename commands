@@ -1,0 +1,21 @@
+git init		   Initializes a new Git repository.
+git clone <url>		   Creates a local copy of a remote repository.
+git status		   Shows the working directory and staging area status.
+git add <file>		   Adds a file to the staging area.
+git commit -m "message"	   Commits staged changes with a message.
+git push origin <branch>   Pushes commits to a remote branch.
+git pull origin <branch>   Fetches and merges changes from a remote branch.
+git branch <branch_name>   Create a new branch with the specified name.
+git checkout <branch>	   Switches to a different branch.
+git merge <branch>	   Merges changes from one branch into another.
+git rebase <branch>	   Re-applies commits on top of another branch.
+git log			   Shows commit history.
+git log --oneline	   Show log in linear format
+git diff		   Shows differences between commits, files, or the working directory.
+git show <commit>	   Displays information about a specific commit.
+git config	    	   Sets Git configuration options.
+git reset <commit>	   Resets the current HEAD to a specific state.
+git revert <commit>	   Reverses a specific commit.
+git stash		   Temporarily saves changes to the working directory.
+git tag	Creates, lists, or deletes tags.
+git remote		   Manages remote repositories.
