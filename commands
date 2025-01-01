@@ -19,3 +19,4 @@ git revert <commit>	   Reverses a specific commit.
 git stash		   Temporarily saves changes to the working directory.
 git tag	Creates, lists, or deletes tags.
 git remote		   Manages remote repositories.
+git -verison #to check the version of the git installed 
